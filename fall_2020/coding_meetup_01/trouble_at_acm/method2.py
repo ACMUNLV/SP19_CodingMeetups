@@ -16,7 +16,7 @@ trueList = [0] * maximum
 for i in range(n):
     trueList[inputList[i] - 1] = True
 
-goodjob = True
+goodJob = True
 for i in range(maximum):
     if not trueList[i]:
         goodJob = False
