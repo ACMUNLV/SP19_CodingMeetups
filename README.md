@@ -1,8 +1,8 @@
 # coding-meetups
 ## UNLV ACM Solutions for contests starting in Spring 2020 - Present
 ### Current Solution providers:
-Benjamin Alcocer
-Michael Lazeroff
+Benjamin Alcocer</br>
+Michael Lazeroff</br>
 
 ### Spring 2020 Contest Links:
 https://www.hackerrank.com/coding-meetup-1</br>
