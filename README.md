@@ -1,7 +1,8 @@
 # coding-meetups
 ## UNLV ACM Solutions for contests starting in Spring 2020 - Present
 ### Current Solution providers:
-Benjamin A
+Benjamin Alcocer</br>
+Michael Lazeroff</br>
 
 ### Spring 2020 Contest Links:
 https://www.hackerrank.com/coding-meetup-1</br>
@@ -13,3 +14,9 @@ Week 2: Kick Start Practice 2019 https://codingcompetitions.withgoogle.com/kicks
 Week 3: Kick Start Round D 2020 https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08</br>
 Week 4: HackerRank UNLV ACM Contest 4 https://www.hackerrank.com/fall2020-code-meetup-4</br>
 Week 5: HackerRank UNLV ACM Contest 5 https://www.hackerrank.com/fall2020-code-meetup-5</br>
+Week 6: Kick Start Practice https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7</br>
+Week 7: Leetcode Interview Practice: See folder for links</br>
+Week 8: Cancelled due to Halloween</br>
+Week 9: Among Us Gaming Session</br>
+Week 10: Kattis problems for ICPC, links in week 10 folder.</br>
+Week 11: Kattis problems for ICPC, links in week 11 folder.</br>
