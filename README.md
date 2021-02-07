@@ -4,6 +4,8 @@
 Benjamin Alcocer</br>
 Michael Lazeroff</br>
 
+### Spring 2021 Contest Links:
+https://www.hackerrank.com/spring2020-code-meetup-1</br>
 ### Spring 2020 Contest Links:
 https://www.hackerrank.com/coding-meetup-1</br>
 https://www.hackerrank.com/coding-meetup-2</br>
