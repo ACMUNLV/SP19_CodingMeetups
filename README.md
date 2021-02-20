@@ -10,6 +10,8 @@ Michael Lazeroff</br>
 ### Spring 2021 Contest Links:
 [Week 1](https://github.com/ACMUNLV/coding-meetups/tree/master/2021_spring/coding_meetup_01): https://www.hackerrank.com/spring2020-code-meetup-1</br>
 [Week 2](https://github.com/ACMUNLV/coding-meetups/tree/master/2021_spring/coding_meetup_02): https://www.hackerrank.com/spring2021-code-meetup-2</br>
+[Week 3](https://github.com/ACMUNLV/coding-meetups/tree/master/2021_spring/coding_meetup_03): https://www.hackerrank.com/unlv-acm-icpc-preliminary-2021</br>
+
 
 ### Fall 2020 Contest Links:
 [Week 1](https://github.com/ACMUNLV/coding-meetups/tree/master/2020_fall/coding_meetup_01): HackerRank UNLV ACM Contest 1 https://www.hackerrank.com/fall2020-code-meetup-1</br>
